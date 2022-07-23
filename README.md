@@ -41,6 +41,6 @@ I have been developing for a little more than a year, I like to study new techno
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pasha-Che&theme=dark)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pasha-Che&count_private=true&theme=tokyonight&showicons=true)]()
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasha-Che&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
