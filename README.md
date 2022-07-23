@@ -22,7 +22,7 @@
 </div>
 <br/>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-I have been developing for a little more than a year, I like to study new technologies and improve my skills! I am not afraid of difficult tasks and challenges! I want to get into a cool team under the guidance of an experienced mentor, where I can evolve and grow professionally!
+I have been developing for a little more than a year, I like to study new technologies and improve my skills!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PashaChe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-cherednichenkop-80801294/)
 
