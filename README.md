@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/XjlNyeZp5lDri/200.webp?cid=ecf05e47oa6js8kaytscnpfw1j5e57ofmmmvci64br5xi4b0&rid=200.webp&ct=g" width="200"/>
-</div>
+
 
 
 <div id="badges" align="center">
